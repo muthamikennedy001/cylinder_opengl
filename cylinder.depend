@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680525261 source:c:\users\admin\desktop\projects\cylinder\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+
